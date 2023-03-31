@@ -1,0 +1,26 @@
+nav{
+    z-index: 100;
+    font-size: 20px;
+}
+
+nav a:hover{
+    background-color: rgb(13, 101, 235);
+    padding-left: 20px;
+}
+
+.arriba{
+    background-color:rgb(13, 101, 235);
+    height: 38px;
+    width: 38px;
+    text-align: center;
+    line-height: 32px;
+    right: 11px;
+    position: fixed;
+    bottom: 100px;
+    border-radius: 100%;
+    font-size: 35px;
+}
+.arriba a{
+    text-decoration: none;
+    color: white;
+}
